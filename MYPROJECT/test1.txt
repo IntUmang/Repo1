@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8C61-2BF2
+
+ Directory of C:\Users\Cloud Analogy\Desktop\MYPROJECT
+
+04/28/2022  12:57 PM    <DIR>          .
+04/28/2022  12:57 PM    <DIR>          ..
+04/28/2022  12:57 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  190,491,373,568 bytes free
